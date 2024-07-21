@@ -1,10 +1,10 @@
 Metadata-Version: 2.1
 Name: pyhobo
-Version: 0.0.1
+Version: 0.0.2
 Summary: PyHOBO allows to construct Hamiltonian for Variation Quantum Algorithms based on Higher-Order Binary Optimization.
 Home-page: https://github.com/Manolin-git/pyhobo
 Author: Himanshu Sahu
-Author-email: himanshu.sahu@uwaterloo.ca
+Author-email: himanshu2272s@gmail.com
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent

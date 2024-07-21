@@ -20,3 +20,9 @@ b = Binary(num_nodes=5, num_positions=4)
 print(b)
 print(b._compute_op(node=2, pos=3))
 ```
+
+<!-- LICENSE -->
+
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.

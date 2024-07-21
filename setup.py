@@ -5,9 +5,9 @@ with open("README.md", "r") as fh:
 
 setup(
     name="pyhobo",  # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="Himanshu Sahu",
-    author_email="himanshu.sahu@uwaterloo.ca",
+    author_email="himanshu2272s@gmail.com",
     description="PyHOBO allows to construct Hamiltonian for Variation Quantum Algorithms based on Higher-Order Binary Optimization.",
     long_description= "If you want to solve a combinatorial optimization problem using Higher-Order Binary Optimization, PyHOBO allows you to construct cost function or Hamiltonian for your problem which can directly be fed to Qiskit.",
     long_description_content_type="text/markdown",
