@@ -4,7 +4,19 @@ If you want to solve a combinatorial optimization problem using Higher-Order Bin
 
 PyHOBO is at its initial stage with number of functionalities still to be addressed.
 
-## Install it from PyPI
+## Prerequisites
+
+PyHOBO is heavily rely on the OpenFermion library which can be installed with pip.
+
+```bash
+pip install openfermion
+```
+
+learn more [here](https://quantumai.google/openfermion/install).
+
+## Installation
+
+Install it from PyPI
 
 ```bash
 pip install pyhobo
@@ -21,8 +33,18 @@ print(b)
 print(b._compute_op(node=2, pos=3))
 ```
 
+## Credits
+
+This software uses the following open source packages:
+
+- [OpenFermion](https://quantumai.google/openfermion)
+
 <!-- LICENSE -->
 
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+## Contact
+
+Created by [Himanshu](mailto:himanshu.sahu@partner.ibm.com) - feel free to contact me!
